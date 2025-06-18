@@ -1,4 +1,5 @@
- retail_sales_performance_analysis
+# retail_sales_performance_analysis
+
 Retail Sales Performance Analysis using Excel | Business Insights & Interactive Dashboard
 
 
@@ -9,11 +10,11 @@ This project presents an in-depth analysis of a retail sales dataset to uncover 
 
 | File/Folder | Description |
 |-------------|-------------|
-| `Retail_Sales_Raw_Dataset.xlsx` | The raw dataset containing Orders, Products, and Customer details. |
-| `Business_Questions.pdf` | A list of core business questions guiding the analysis. |
-| `Retail_Sales_Performance_Analysis.xlsx` | Cleaned dataset and dashboard visuals designed in Excel. |
-| `Retail_Sales_Dashboard_Screenshot.png` | Image preview of the Excel dashboard. |
-| `Retail_Sales_Performance_Analysis_Report.pdf` | A professional report detailing insights, findings, and recommendations. |
+| `retail_sales_raw_dataset.xlsx` | The raw dataset containing Orders, Products, and Customer details. |
+| `business_questions.pdf` | A list of core business questions guiding the analysis. |
+| `retail_sales_performance_analysis.xlsx` | Cleaned dataset and dashboard visuals designed in Excel. |
+| `retail_sales_dashboard_screenshot.png` | Image preview of the Excel dashboard. |
+| `retail_sales_performance_analysis_report.pdf` | A professional report detailing insights, findings, and recommendations. |
 
 
  Objectives
